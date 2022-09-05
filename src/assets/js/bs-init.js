@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // Nenhuma alteração nesse JS
 
 
