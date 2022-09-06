@@ -4,6 +4,8 @@ Site desenvolvido com intúito de postar tanto as stacks quanto alguns projetos 
 
 ## 💻 Projeto
 
+![portifolio](https://user-images.githubusercontent.com/86271591/188659818-6b2de0d1-f337-474e-8641-bc671e1a5ea0.png)
+
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com as seguintes tecnologias:
 
