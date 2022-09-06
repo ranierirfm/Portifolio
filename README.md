@@ -20,24 +20,6 @@ Site desenvolvido com intúito de postar tanto as stacks quanto alguns projetos 
 
 - Utilizar o Boostrap para estilização do site.
 
-## ⬇️ Instalando dependências
-
-```bash
-npm install
-``` 
-
-## ⚡ Executando a aplicação
-
-```bash
-npm start
-``` 
-
-## 🧪 Executando os testes
-
-```bash
-npm test
-```
-
 ## 💬 Contatos
 
 <div align="center" style="display: inline_block">
